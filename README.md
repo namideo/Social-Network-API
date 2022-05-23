@@ -15,4 +15,19 @@ The purpose of this assignment is to develop a social networking API that allows
 * I am also able to add or remove Reactions from my Thoughts using POST and DELETE. 
 
 ## Mock Up
+The following mock up shows the GET routes for all USER and THOUGHTS as well as by ID. 
 
+
+![Demo for GET routes](./assets/Social-Network-API-GET-routes.gif)
+
+
+POST, PUT, DELETE routes for USER, as well as add and remove Friend. 
+
+
+![Demo for User routes](./assets/Social-Network-API-USER-routes.gif)
+
+
+POST, PUT, DELETE routes for THOUGHTS, as well as add and remove Reaction. 
+
+
+![Demo for Thought routes](./assets/Social-Network-API-THOUGHT-routes.gif)
